@@ -1,0 +1,2 @@
+Jalan seeder dari iseed berikut saat ada perubahan menu :
+-> php artisan iseed admin_menu,admin_role_menu,admin_role_permissions,admin_roles
